@@ -69,7 +69,7 @@ Future assignments will follow the same structure and will be placed in their re
    git clone https://github.com/AnkushRajMaheYam/Web-Assignment_J-Spider.git
    ```
 
-2. Navigate to the specific assignment folder (e.g., Assign7):
+2. Navigate to the specific assignment folder (e.g., Assign1):
    ```bash
    cd Java-Assignment_J-Spider/Assign1
    ```
