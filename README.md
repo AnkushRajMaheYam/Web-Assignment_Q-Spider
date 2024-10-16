@@ -1,6 +1,6 @@
 # Web Assignments: J-Spider Software Training Institute
 
-This repository contains a collection of Java programming assignments from the **J-Spider Software Training Institute** (Noida Branch). This folder contains a collection of assignments focused on web development, specifically utilizing HTML tags. Each assignment is designed to help learners grasp essential web design concepts through practical coding examples.
+This repository contains a collection of Java programming assignments from the **J-Spider Software Training Institute** (Noida Branch). This folder contains a collection of assignments focused on web development, specifically utilizing HTML tags, Css style and JavaScript Functions. Each assignment is designed to help learners grasp essential web design concepts through practical coding examples.
 
 ## Repository Structure
 
