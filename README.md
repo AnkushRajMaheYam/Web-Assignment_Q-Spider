@@ -1,6 +1,6 @@
 # Web Assignments: J-Spider Software Training Institute
 
-This repository contains a collection of Java programming assignments from the **J-Spider Software Training Institute** (Noida Branch). This folder contains a collection of assignments focused on web development, specifically utilizing HTML tags. Each assignment is designed to help learners grasp essential web design concepts through practical coding examples.
+This repository contains a collection of Java programming assignments from the **J-Spider Software Training Institute** (Noida Branch). This folder contains a collection of assignments focused on web development, specifically utilizing HTML tags, Css style and JavaScript Functions. Each assignment is designed to help learners grasp essential web design concepts through practical coding examples.
 
 ## Repository Structure
 
@@ -66,12 +66,12 @@ Future assignments will follow the same structure and will be placed in their re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AnkushRajMaheYam/Web-Assignment_J-Spider.git
+   git clone https://github.com/AnkushRajMaheYam/Web-Assignment_Q-Spider.git
    ```
 
-2. Navigate to the specific assignment folder (e.g., Assign7):
+2. Navigate to the specific assignment folder (e.g., Assign1):
    ```bash
-   cd Java-Assignment_J-Spider/Assign1
+   cd Web-Assignment_Q-Spider/Assign1
    ```
 
 3. Open in Browser:
